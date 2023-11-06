@@ -5,4 +5,5 @@ Gem::Specification.new do |s|
     s.summary       = "Simple Wikipedia API wrapper in Ruby."
     s.authors       = ['Maxine']
     s.files         = ['lib/wikirb.rb']
+    s.homepage      = "https://github.com/MaxiTheElf/wikirb"
 end
